@@ -1,1 +1,6 @@
-# Z3R0
+### Boas vindas ao meu perfil :blue_heart
+vitor hugo da silva
+
+- Estou estudando na Alura
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
